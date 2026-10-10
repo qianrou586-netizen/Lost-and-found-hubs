@@ -1,0 +1,9 @@
+{
+    "name": "maiesthernisui/lost_and_found_hub1",
+    "require": {},
+    "repositories": [{
+        "name": "packagist",
+        "type": "composer",
+        "url": "http://repo.packagist.org"
+    }]
+}
